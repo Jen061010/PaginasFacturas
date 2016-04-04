@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\curso asp.net\PaginasFacturas\PaginasFacturas\bin\Debug\PaginasFacturas.exe.config
+C:\Users\admin\Desktop\curso asp.net\PaginasFacturas\PaginasFacturas\bin\Debug\PaginasFacturas.exe
+C:\Users\admin\Desktop\curso asp.net\PaginasFacturas\PaginasFacturas\bin\Debug\PaginasFacturas.pdb
+C:\Users\admin\Desktop\curso asp.net\PaginasFacturas\PaginasFacturas\obj\Debug\PaginasFacturas.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\curso asp.net\PaginasFacturas\PaginasFacturas\obj\Debug\PaginasFacturas.exe
+C:\Users\admin\Desktop\curso asp.net\PaginasFacturas\PaginasFacturas\obj\Debug\PaginasFacturas.pdb
